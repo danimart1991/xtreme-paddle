@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<Asset Type="ParticlesSettings.ParticleSystemSettings">
+		<MinNumParticles>3</MinNumParticles>
+		<MaxNumParticles>6</MaxNumParticles>
+		<TextureFilename>menuBubble</TextureFilename>
+		<MinInitialSpeed>10</MinInitialSpeed>
+		<MaxInitialSpeed>200</MaxInitialSpeed>
+		<AccelerationMode>EndVelocity</AccelerationMode>
+		<EndVelocity>0</EndVelocity>
+		<MinRotationSpeed>-45</MinRotationSpeed>
+		<MaxRotationSpeed>45</MaxRotationSpeed>
+		<MinLifetime>2.0</MinLifetime>
+		<MaxLifetime>5.0</MaxLifetime>
+		<MinSize>0.1</MinSize>
+		<MaxSize>2.0</MaxSize>
+		<SourceBlend>SourceAlpha</SourceBlend>
+		<DestinationBlend>One</DestinationBlend>
+	</Asset>
+</XnaContent>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+    <FontName>Commodore 64 Angled</FontName>
+    <Size>22</Size>
+    <Spacing>2</Spacing>
+    <Style>Bold</Style>
+    <DefaultCharacter>*</DefaultCharacter>
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#192;</Start>
+        <End>&#220;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#224;</Start>
+        <End>&#239;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#241;</Start>
+        <End>&#252;</End>
+      </CharacterRegion>
+    </CharacterRegions>
+  </Asset>
+</XnaContent>

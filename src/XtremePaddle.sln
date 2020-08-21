@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtremePaddle", "XtremePaddle\XtremePaddle.csproj", "{DD81273B-222B-4960-BC60-99C253116608}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7F248813-40CC-4FD8-97A0-D25A76D8EDB2} = {7F248813-40CC-4FD8-97A0-D25A76D8EDB2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content", "Content\Content.contentproj", "{44459A75-F2CF-4B58-89EA-79154AF5C1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSettings (Phone)", "ParticleSettings\ParticleSettings (Phone).csproj", "{7F248813-40CC-4FD8-97A0-D25A76D8EDB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD81273B-222B-4960-BC60-99C253116608}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{DD81273B-222B-4960-BC60-99C253116608}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{DD81273B-222B-4960-BC60-99C253116608}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{DD81273B-222B-4960-BC60-99C253116608}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{DD81273B-222B-4960-BC60-99C253116608}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{DD81273B-222B-4960-BC60-99C253116608}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{44459A75-F2CF-4B58-89EA-79154AF5C1AF}.Debug|Windows Phone.ActiveCfg = Debug|Any CPU
+		{44459A75-F2CF-4B58-89EA-79154AF5C1AF}.Release|Windows Phone.ActiveCfg = Debug|Any CPU
+		{7F248813-40CC-4FD8-97A0-D25A76D8EDB2}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{7F248813-40CC-4FD8-97A0-D25A76D8EDB2}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{7F248813-40CC-4FD8-97A0-D25A76D8EDB2}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{7F248813-40CC-4FD8-97A0-D25A76D8EDB2}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
